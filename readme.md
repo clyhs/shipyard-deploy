@@ -1,3 +1,7 @@
+NOTE: This is DEPRECATED.  See https://shipyard-project.com for the new deployment method.
+
+This is left here for reference.
+
 # Shipyard Deploy
 This will deploy a componentized Shipyard stack on your Docker host.  It will
 pull, launch, and link the various services together so you have an entire
